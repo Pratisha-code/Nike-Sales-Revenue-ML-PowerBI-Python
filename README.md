@@ -71,6 +71,7 @@ Deploy the model as a simple web application.
 
 ## Author and Contact
 Author: Pratisha Biswal
+
 Project: Nike Sales Revenue Prediction
 
 Email: pratishabiswal@gmail.com
