@@ -75,7 +75,7 @@ Project: Nike Sales Revenue Prediction
 
 Email: pratishabiswal@gmail.com
 
-GitHub: https://github.com/Pratisha-Code
+GitHub: https://github.com/Pratisha-code
 
 
 
